@@ -13,11 +13,11 @@
 
 Перейдите в каталог с клоном репозитория.
 
-!(https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image1.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image1.png)
 
 Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
 
-!(https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image2.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image2.png)
 
 Выполните команду git status и запомните результат.
 
@@ -35,6 +35,5 @@
 
 Сделайте git push origin master.
 
-!(https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image3.png)
-!(https://github.com/asad-bekov/sdvp-8-01/blob/main/images/
-image4.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image3.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
