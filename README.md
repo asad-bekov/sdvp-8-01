@@ -1,7 +1,7 @@
 # sdvp-8-01
-##Домашнее задание к занятию «Git»##
+Домашнее задание к занятию «Git»
 
-#Задание 1#
+Задание 1
 
 Что нужно сделать:
 
@@ -12,3 +12,28 @@
 Склонируйте репозиторий, используя https протокол git clone ....
 
 Перейдите в каталог с клоном репозитория.
+
+!(images/image1.png)
+
+Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+
+!(images/image2.png)
+
+Выполните команду git status и запомните результат.
+
+Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+
+Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+
+Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+
+Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+
+Ещё раз выполните команды git diff и git diff --staged.
+
+Теперь можно сделать коммит git commit -m 'First commit'.
+
+Сделайте git push origin master.
+
+!(images/image3.png)
+!(images/image4.png)
