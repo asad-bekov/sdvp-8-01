@@ -33,12 +33,12 @@
 
 11. Ещё раз выполните команды git diff и git diff --staged.
 
-12. Теперь можно сделать коммит git commit -m 'First commit'.
-
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
+
+12. Теперь можно сделать коммит git commit -m 'images added'.
 
 Сделайте git push origin master.
 
-![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image5.png)
 
 [Ссылка на коммит](ссылка)
