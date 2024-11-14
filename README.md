@@ -21,6 +21,8 @@
 
 Выполните команду git status и запомните результат.
 
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image3.png)
+
 Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 
 Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
@@ -35,5 +37,5 @@
 
 Сделайте git push origin master.
 
-![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image3.png)
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image5.png)
