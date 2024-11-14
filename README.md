@@ -1,41 +1,44 @@
 # sdvp-8-01
-Домашнее задание к занятию «Git»
+# Домашнее задание к занятию «Git»
 
-Задание 1
+## Задание 1
 
-Что нужно сделать:
+### Что нужно сделать:
 
-Зарегистрируйте аккаунт на GitHub.
+1. Зарегистрируйте аккаунт на GitHub.
 
-Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 
-Склонируйте репозиторий, используя https протокол git clone ....
+3. Склонируйте репозиторий, используя https протокол git clone ....
 
-Перейдите в каталог с клоном репозитория.
+4. Перейдите в каталог с клоном репозитория.
 
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image1.png)
 
-Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
 
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image2.png)
 
-Выполните команду git status и запомните результат.
+6 Выполните команду git status и запомните результат.
 
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image3.png)
 
-Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 
-Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
 
-Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 
-Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
 
-Ещё раз выполните команды git diff и git diff --staged.
+11. Ещё раз выполните команды git diff и git diff --staged.
 
-Теперь можно сделать коммит git commit -m 'First commit'.
+12. Теперь можно сделать коммит git commit -m 'First commit'.
+
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
 
 Сделайте git push origin master.
 
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image4.png)
-![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image5.png)
+
+[Ссылка на коммит](ссылка)
