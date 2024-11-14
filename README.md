@@ -53,4 +53,4 @@
 
 4. Сделайте коммит и пуш.
 
-[Ссылка на коммит](https://github.com/asad-bekov/sdvp-8-01/commit/8677327bc116287cf3548470ffa1927eddc0bfd5>
+[Ссылка на коммит](https://github.com/asad-bekov/sdvp-8-01/commit/8677327bc116287cf3548470ffa1927eddc0bfd5)>
