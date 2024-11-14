@@ -1,4 +1,3 @@
-# sdvp-8-01
 # Домашнее задание к занятию «Git»
 
 ## Задание 1
@@ -42,3 +41,16 @@
 ![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image5.png)
 
 [Ссылка на коммит](https://github.com/asad-bekov/sdvp-8-01/commit/3d701d0fa1f9ec3e540fe99bcc12d5ab24dd8680)
+
+## Задание 2
+### Что нужно сделать:
+
+1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
+2. Добавьте файл .gitignore в следующий коммит git add....
+3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
+
+![alt text](https://github.com/asad-bekov/sdvp-8-01/blob/main/images/image6.png)
+
+4. Сделайте коммит и пуш.
+
+[Ссылка на коммит](https://github.com/asad-bekov/sdvp-8-01/commit/8677327bc116287cf3548470ffa1927eddc0bfd5>
